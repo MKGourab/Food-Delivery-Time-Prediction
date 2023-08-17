@@ -1,0 +1,9 @@
+numpy 
+pandas
+matplotlib
+seaborn
+scikit-learn==1.2.2
+flask
+pyproj
+-e .
+urllib3==1.26.14
