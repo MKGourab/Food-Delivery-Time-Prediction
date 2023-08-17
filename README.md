@@ -69,3 +69,20 @@ Before running the application, make sure you have the following installed:
 </code>
 </pre>
 
+# Output is as shown below:
+
+  ### AWS Deployment
+
+![Screenshot_11](https://github.com/MKGourab/Food-Delivery-Time-Prediction/assets/104300031/85e813ae-a588-4ee8-873d-a4734dc2414d)
+
+  ### Homepage
+
+![Screenshot_8](https://github.com/MKGourab/Food-Delivery-Time-Prediction/assets/104300031/37fd0ec9-cb4e-4e63-8d58-82520ebb8341)
+
+  ### Input Form
+
+![Screenshot_9](https://github.com/MKGourab/Food-Delivery-Time-Prediction/assets/104300031/0efb4a43-a96a-4235-870a-ad92b26f35c6)
+
+  ### Result Page
+
+![Screenshot_10](https://github.com/MKGourab/Food-Delivery-Time-Prediction/assets/104300031/e5f7fcb2-6b9e-4190-9e48-e06d3c82287a)
