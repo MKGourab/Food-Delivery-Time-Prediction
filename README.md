@@ -1,6 +1,6 @@
 # Food Delivery Time Prediction Web Application
 
-This is a web application built using Flask that predicts the delivery time for a delivery based on various factors. The application uses a linear regression algorithm to process input data and provide an estimated delivery time.
+This is a web application built using Flask that predicts the delivery time for a delivery based on various factors. The application uses a linear regression algorithm to process input data and provide an estimated delivery time. The application can be deployed on AWS Elastic Beanstalk.
 
 ## Getting Started
 
