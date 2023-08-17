@@ -1,4 +1,4 @@
-from flask import Flask,request,render_template,jsonify
+from flask import Flask,request,render_template
 from src.pipeline.prediction_pipeline import CustomData,PredictPipeline
 
 
@@ -8,7 +8,11 @@ app=application
 
 
 
-@app.route('/',methods=['GET','POST'])
+@app.route('/')
+def home_page():
+    return render_template('index.html')
+
+@app.route('/predict',methods=['GET','POST'])
 
 def predict_datapoint():
     if request.method=='GET':
