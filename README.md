@@ -69,7 +69,7 @@ Before running the application, make sure you have the following installed:
 </code>
 </pre>
 
-# Output is as shown below:
+# Visual Overview
 
   ### AWS Deployment
 
