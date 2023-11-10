@@ -17,8 +17,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name="Food Delivery Regressor Project",
 version='0.0.1',
-author='BINAYA',
-author_email='binaya.vicky@gmail.com',
+author='Gourab',
+author_email='gourabmahapatra29@gmail.com',
 install_requires=get_requirements('requirements.txt'),
 packages=find_packages()
 )
